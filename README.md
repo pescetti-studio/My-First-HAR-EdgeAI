@@ -1,4 +1,4 @@
-# My-First-HAR-Edge-AI
+# My First HAR Edge AI
 Simple LSTM neural network for Human Activity Recognition (Downstairs, Upstairs, Walking, Running, Standing) from accelerometer/gyroscope data. Implemented on STM32 Nucleo F401RE for real-time Edge AI. Includes all MATLAB, Colab, and C code.
 For more in-depth information and technical details, please refer to our [Medium article](https://medium.com/@crocilorenzo01/my-first-har-ai-from-dataset-to-microcontroller-3b6c45d7fcf5).
 _________________________________________________________________________________________________
