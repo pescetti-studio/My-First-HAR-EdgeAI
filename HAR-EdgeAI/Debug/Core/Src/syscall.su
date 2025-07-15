@@ -1,0 +1,6 @@
+../Core/Src/syscall.c:1:5:_write	0	static
+../Core/Src/syscall.c:6:5:_read	0	static
+../Core/Src/syscall.c:10:5:_close	0	static
+../Core/Src/syscall.c:14:5:_fstat	0	static
+../Core/Src/syscall.c:18:5:_isatty	0	static
+../Core/Src/syscall.c:22:5:_lseek	0	static

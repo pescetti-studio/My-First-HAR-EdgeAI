@@ -1,0 +1,7 @@
+../Core/Src/main.c:80:16:platform_read	1
+../Core/Src/main.c:71:16:platform_write	1
+../Core/Src/main.c:98:7:conv_dps2rad	1
+../Core/Src/main.c:104:7:conv_g2ms2	1
+../Core/Src/main.c:267:6:SystemClock_Config	3
+../Core/Src/main.c:120:5:main	10
+../Core/Src/main.c:317:6:Error_Handler	1

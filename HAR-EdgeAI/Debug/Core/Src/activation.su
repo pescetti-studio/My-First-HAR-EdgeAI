@@ -1,0 +1,2 @@
+../Core/Src/activation.c:4:7:fast_sigmoid	0	static
+../Core/Src/activation.c:8:7:fast_tanh	0	static

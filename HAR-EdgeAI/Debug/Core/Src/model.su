@@ -1,0 +1,4 @@
+../Core/Src/model.c:121:6:act_sigmoid	24	static
+../Core/Src/model.c:129:6:act_tanh1	16	static
+../Core/Src/model.c:137:6:act_tanh2	16	static
+../Core/Src/model.c:178:6:lstm_inference	1784	static
